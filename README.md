@@ -1,4 +1,4 @@
-# Meropo AI音乐生成器 - GUI界面
+# Meropo AI音乐生成&品鉴
 
 这是一个基于Python tkinter的音乐生成GUI界面，集成了AI音乐生成和音乐鉴赏功能。
 
